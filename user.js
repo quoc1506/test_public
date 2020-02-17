@@ -29,15 +29,12 @@ function checkUser(type) {
 			user  = {username: "bDZ0NW54ZjEtNHQ3dm5taA==", password: "NWM3MmI4ZHZrbg=="};
 			break;
 		case 10:
-			user = {username: "Z42myeXkKRfDU2TGNJDxhcCu", password: "HNxyRvSNcsiC5jFGt3dmpVN4"};
-			break;
-		case 11:
 			user = {username: "KS1-2f605abfea8a46850e68a22b17d0d3b9&nguyenlinh6605@gmail.com", password: "VYnYvrzOxboF"}
 			break;
-		case 12:
+		case 11:
 			user = {username: "user-uuid-bb00e8025fbd7be1985da24fb860cf79", password: "0d411c082128"}
 			break;
-		case 13:
+		case 12:
 			user = {username: "urbanvpn@urban-vpn.com", password: "urbanvpn4321"}
 			break;
 		default: 
