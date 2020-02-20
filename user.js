@@ -2,7 +2,7 @@ function checkUser(type) {
 	let user;
 	switch (type) {
 		case 1: // daily // 8h
-			user = {username: ".sv@4301670;vn.", password: "c6pc7FCT3+YJxNF53BKdPeOZvty6sSgZ6grhgixIWHFexz3WJiMwA=="};
+			user = {username: ".sv@4301670;vn.", password: "+c6pc7FCT3/+aX6SZMdGP8nafCuPld0b7ClO2PEjHUfHy+nfEP37EA=="};
 			break;
 		case 2: // weekly // 16/02
 			user = {username: "purevpn0s9140864", password: "tvqeftm5"};
