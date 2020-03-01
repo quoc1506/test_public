@@ -8,7 +8,7 @@ function checkUser(type) {
 			user = {username: "hpj85184@eoopy.com", password: "NV4v3uaKFV"};
 			break;
 		case 2: // weekly // 25/02
-			user = {username: "purevpn0s9160540", password: "e0wyv22b"};
+			user = {username: "purevpn0s9181445", password: "jhv2r25x"};
 			break;
 		case 3:
 			user = {username: "UVPNv2-b97d2b5b87537150e831f1de8cdace0dd1bad2a381557bd1c4dc300163cb3644&nguyenlinh6605+5@gmail.com", password: "a69b3e8091971fcf8ce988f42f4e7289405c2a83b0f2e262b1bf1f29a9e5df33"};
