@@ -7,7 +7,7 @@ function checkUser(type) {
 		case 15: // dailyibvpn
 			user = {username: "hpj85184@eoopy.com", password: "NV4v3uaKFV"};
 			break;
-		case 2: // weekly // 25/02
+		case 2: // weekly // 01/03
 			user = {username: "purevpn0s9181445", password: "jhv2r25x"};
 			break;
 		case 3:
