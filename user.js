@@ -1,11 +1,14 @@
 function checkUser(type) {
 	let user;
 	switch (type) {
-		case 1: // daily // 20h
-			user = {username: ".sv@4723027;vn.", password: "K8UtcPmeMDECe4fbwhz+4pF3F25WF1tEMA5oiDq/KA8="};
+		case 1: // daily // 5h
+			user = {username: ".sv@4301670;vn.", password: "+c6pc7FCT392JzKGggjEKTphbjETj//B68OtXPQLvC2I6WO9ZzTz3w=="};
 			break;
 		case 15: // dailyibvpn
-			user = {username: "ufr44040@zzrgg.com", password: "WAwKnQeEpa"};
+			user = {username: "bwu96306@bcaoo.com", password: "8SW8NhgPoM"};
+			break;
+		case 16: // 3 day
+			user = {username: "xay62434@bcaoo.com", password: "xay62434@bcaoo.com"};
 			break;
 		case 2: // weekly // 17/03
 			user = {username: "purevpn0s9230468", password: "yxygg7jj"};
@@ -45,6 +48,18 @@ function checkUser(type) {
 			break;
 		case 14:
 			user = {username: "testuser1", password: "e4b72b531a2d10900519"};
+			break;
+		case 17: 
+			user = {username: "alpsancar48@gmail.com", password: "UXZJSUVtnmDG3DkptkA4"};
+			break;
+		case 18: 
+			user = {username: "pg-952bd832", password: "79ab2543"};
+			break;
+		case 19: 
+			user = {username: "ddvusername", password: "ysdf2912addfd"};
+			break;
+		case 20: 
+			user = {username: "QWNjb3VudFY1X3siVXNlcklkIjoiYjhwdXh3bTlxaDI5NXM0YyIsIkF1dGhTayI6InVwNDRtYmgyNHM5czVlanUiLCJIdHRwUHJveHlTZXNzaW9uSWQiOiI3MGM1MTZiNzUzOTM1MzQxMjExOWJjYTJmMThjMzdlNWYzZmRlYWEzN2JkMjYxYTdkNTEyZjFjYmE0ZmFlODFkIn0", password: "d3hxYnF3ZDdlNg=="};
 			break;
 		default: 
 			user = {};
