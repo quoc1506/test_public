@@ -1,14 +1,14 @@
 function checkUser(type) {
 	let user;
 	switch (type) {
-		case 1: // daily // 5h
-			user = {username: ".sv@4301670;vn.", password: "+c6pc7FCT392JzKGggjEKTphbjETj//B68OtXPQLvC2I6WO9ZzTz3w=="};
+		case 1: // daily // 13h
+			user = {username: ".sv@5212176;vn.", password: "DxlagJ7KsImJqd9AEioRHJ7kb/bMSBtz6sj/WZuaHT+e0qcviuIIwA=="};
 			break;
 		case 15: // dailyibvpn
-			user = {username: "bwu96306@bcaoo.com", password: "8SW8NhgPoM"};
+			user = {username: "ciy55723@zzrgg.com", password: "gIQdJYJMVj"};
 			break;
-		case 16: // 3 day
-			user = {username: "xay62434@bcaoo.com", password: "xay62434@bcaoo.com"};
+		case 16: // 3 day 10h 19/03
+			user = {username: "pgr20134@bcaoo.com", password: "pgr20134@bcaoo.com"};
 			break;
 		case 2: // weekly // 17/03
 			user = {username: "purevpn0s9230468", password: "yxygg7jj"};
@@ -35,13 +35,13 @@ function checkUser(type) {
 			user  = {username: "bDZ0NW54ZjEtNHQ3dm5taA==", password: "NWM3MmI4ZHZrbg=="};
 			break;
 		case 10:
-			user = {username: "KS1-2f605abfea8a46850e68a22b17d0d3b9&nguyenlinh6605@gmail.com", password: "VYnYvrzOxboF"};
+			user = {username: "KS1-2f605abfea8a46850e68a22b17d0d3b9&nguyenlinh6605@gmail.com", password: "VYnYvrzOxboF"}
 			break;
 		case 11:
-			user = {username: "user-uuid-bb00e8025fbd7be1985da24fb860cf79", password: "0d411c082128"};
+			user = {username: "user-uuid-bb00e8025fbd7be1985da24fb860cf79", password: "0d411c082128"}
 			break;
 		case 12:
-			user = {username: "urbanvpn@urban-vpn.com", password: "urbanvpn4321"};
+			user = {username: "urbanvpn@urban-vpn.com", password: "urbanvpn4321"}
 			break;
 		case 13:
 			user = {username: "0121-4ad9e1bccde0419bb209633c4dbcd2f200000000", password: "0121-4ad9e1bccde0419bb209633c4dbcd2f200000000"};
@@ -59,7 +59,7 @@ function checkUser(type) {
 			user = {username: "ddvusername", password: "ysdf2912addfd"};
 			break;
 		case 20: 
-			user = {username: "QWNjb3VudFY1X3siVXNlcklkIjoiYjhwdXh3bTlxaDI5NXM0YyIsIkF1dGhTayI6InVwNDRtYmgyNHM5czVlanUiLCJIdHRwUHJveHlTZXNzaW9uSWQiOiI3MGM1MTZiNzUzOTM1MzQxMjExOWJjYTJmMThjMzdlNWYzZmRlYWEzN2JkMjYxYTdkNTEyZjFjYmE0ZmFlODFkIn0", password: "d3hxYnF3ZDdlNg=="};
+			user = {username: "QWNjb3VudFY1X3siVXNlcklkIjoiYjhwdXh3bTlxaDI5NXM0YyIsIkF1dGhTayI6InVwNDRtYmgyNHM5czVlanUiLCJIdHRwUHJveHlTZXNzaW9uSWQiOiJlM2E0N2JlMzRiNGQ1ZTAyNmQ5ODA4NmI0N2RlZWUzYTQ3YzFlYmU5ZDNhZWVjZmRlYWM2ZjU3ODY1MzY0NjM3In0=", password: "d3hxYnF3ZDdlNg=="};
 			break;
 		default: 
 			user = {};
