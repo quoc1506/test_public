@@ -10,7 +10,7 @@ function checkUser(type) {
 		case 16: // 3 day 13h 09/06
 			user = {username: "stb45576@zzrgg.com", password: "stb45576@zzrgg.com"};
 			break;
-		case 2: // weekly 18h 04/06
+		case 2: // weekly 11h 11/06
 			user = {username: "purevpn0s9510925", password: "m2dshh3g"};
 			break;
 		case 3:
