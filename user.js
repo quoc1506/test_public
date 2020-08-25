@@ -1,11 +1,11 @@
 function checkUser(type) {
 	let user;
 	switch (type) {
-		case 1: // daily // 13h
-			user = {username: ".sv@7577018;vn.", password: "kUM8wVZ65caKWU78aPd1bc3F5iHjrp2Mj1x/N7pzkEs="};
+		case 1: // daily // 12h
+			user = {username: ".sv@7577018;vn.", password: "kUM8wVZ65caw9MgN0KNyJRCNP3p0WXWbLb2SYBra8eI="};
 			break;
 		case 15: // dailyibvpn
-			user = {username: "vxr39191@bcaoo.com", password: "CQLYPKCqJq"};
+			user = {username: "vkv30196@bcaoo.com", password: "yqrRcxtXAr"};
 			break;
 		case 16: // 3 day 13h 24/08
 			user = {username: "vxr39191@bcaoo.com", password: "vxr39191@bcaoo.com"};
