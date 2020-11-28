@@ -7,11 +7,11 @@ function checkUser(type) {
 		case 15: // dailyibvpn
 			user = {username: "yng25533@eoopy.com", password: "TnnYR4xFwE"};
 			break;
-		case 16: // 3 day 14h 25/11
-			user = {username: "sdz30070@bcaoo.com", password: "sdz30070@bcaoo.com"};
+		case 16: // 3 day 13h 28/11
+			user = {username: "xpe21493@eoopy.com", password: "xpe21493@eoopy.com"};
 			break;
-		case 2: // weekly 15h 22/11
-			user = {username: "purevpn0s9957842", password: "kueb0qdb"};
+		case 2: // weekly 13h 28/11
+			user = {username: "purevpn0s9978586", password: "obrgg3fv"};
 			break;
 		case 3:
 			user = {username: "UVPNv2-b97d2b5b87537150e831f1de8cdace0dd1bad2a381557bd1c4dc300163cb3644&nguyenlinh6605+5@gmail.com", password: "a69b3e8091971fcf8ce988f42f4e7289405c2a83b0f2e262b1bf1f29a9e5df33"};
