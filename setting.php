@@ -1,4 +1,3 @@
-<?php
 $CONFIG = [
 	'setting' => [
 		// 1
